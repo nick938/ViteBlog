@@ -38,5 +38,6 @@ export default {
         items: [{ text: "2022/2", link: "/weekReport" }],
       },
     ],
+    base: "/ViteBlog/",
   },
 };
